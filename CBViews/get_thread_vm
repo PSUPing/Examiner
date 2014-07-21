@@ -1,0 +1,5 @@
+function (doc, meta) {
+  if (doc.thread_count != null) {
+    emit(doc._id, [doc.thread_count, doc.vm_memory]);
+  }
+}

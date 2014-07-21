@@ -1,14 +1,2 @@
 
-out/artifacts/Examiner_jar/Examiner.jar
-
-out/production/Examiner/META-INF/MANIFEST.MF
-
-out/production/Examiner/edu/drexel/Examiner/dataaccess/Couchbase.class
-
-out/production/Examiner/edu/drexel/Examiner/Main.class
-
-out/production/Examiner/edu/drexel/Examiner/math/LinearRegression.class
-
-out/production/Examiner/edu/drexel/Examiner/math/RegressionInfo.class
-
-out/production/Examiner/edu/drexel/Examiner/math/RunTime.class
+out/

@@ -1,0 +1,5 @@
+function (doc, meta) {
+  if (doc.m != null) {
+    emit("regression", [doc.m, doc.y, doc.curr_date_time]);
+  }
+}

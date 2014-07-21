@@ -1,0 +1,5 @@
+function (doc, meta) {
+  if (doc.run_name != null) {
+    emit(doc._id, [doc.run_name]);
+  }
+}

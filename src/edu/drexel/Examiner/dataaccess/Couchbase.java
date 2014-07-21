@@ -91,6 +91,25 @@ public class Couchbase {
         return listToDblArray(getStat("vm_memory", currDate));
     }
 
+    public void getRunName() {
+        try {
+            View view = client.getView("get", "get_run");
+            Query query = new Query();
+            query.setIncludeDocs(true).setLimit(20);
+            query.setStale(Stale.FALSE);
+            ViewResponse result = client.query(view, query);
+
+            for (ViewRow row : result) {
+                System.out.println(row.getDocument().toString());
+                break;
+            }
+        }
+        catch (Exception ex) {
+            System.out.println(ex.getMessage().toString());
+            System.exit(1);
+        }
+    }
+
     public RunTime getLastRun() {
         RunTime runTime = null;
 

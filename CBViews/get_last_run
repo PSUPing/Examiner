@@ -1,0 +1,5 @@
+function (doc, meta) {
+  if (doc.last_run != null) {
+    emit(meta.id, doc.last_run);
+  }
+}

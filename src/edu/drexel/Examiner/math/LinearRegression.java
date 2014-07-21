@@ -40,13 +40,4 @@ public class LinearRegression {
 
         return new RegressionInfo(octM, octY);
     }
-
-        /*
-            dist = data(:,1) - (theta'(:,2) * data(:,2) + theta'(:,1));
-            mal_dist = mal(:,1) - (theta'(:,2) * mal(:,2) + theta'(:,1));
-            means = [mean(dist(dist < 0,:)) mean(dist(dist > 0,:))];
-            min_max = [min(dist) max(dist)];
-            new double[] inputRawX = { };
-        */
-
 }
