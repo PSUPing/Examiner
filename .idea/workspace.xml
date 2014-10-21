@@ -87,11 +87,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Couchbase.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Couchbase.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/drexel/Examiner/dataaccess/Couchbase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="0" selection-start="3114" selection-end="3114" vertical-scroll-proportion="0.0" vertical-offset="1500" max-vertical-offset="3105">
-              <folding />
+            <state line="100" column="0" selection-start="3114" selection-end="3114" vertical-scroll-proportion="-0.29925188" vertical-offset="1500" max-vertical-offset="2865">
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#4468#4476#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,10 +126,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_thread_vm" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="get_thread_vm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CBViews/get_thread_vm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="1" selection-start="116" selection-end="116" vertical-scroll-proportion="0.07481297" vertical-offset="0" max-vertical-offset="802">
+            <state line="4" column="1" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
@@ -135,7 +138,7 @@
       <file leaf-file-name="LinearRegression.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/drexel/Examiner/math/LinearRegression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="40" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="735">
+            <state line="21" column="0" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="735">
               <folding />
             </state>
           </provider>
@@ -205,8 +208,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -235,12 +236,90 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Examiner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Examiner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Examiner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Examiner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Examiner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Examiner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="math" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Examiner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Examiner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Examiner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataaccess" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Examiner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Examiner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="CBViews" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,7 +330,7 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StatCollector" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -507,7 +586,10 @@
     <entry file="file://$PROJECT_DIR$/src/edu/drexel/Examiner/dataaccess/Couchbase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="100" column="0" selection-start="3114" selection-end="3114" vertical-scroll-proportion="0.0" vertical-offset="1500" max-vertical-offset="3105">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4468#4476#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -570,7 +652,10 @@
     <entry file="file://$PROJECT_DIR$/src/edu/drexel/Examiner/dataaccess/Couchbase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="0" selection-start="916" selection-end="916" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="2580">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4468#4476#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -605,7 +690,10 @@
     <entry file="file://$PROJECT_DIR$/src/edu/drexel/Examiner/dataaccess/Couchbase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="0" selection-start="916" selection-end="916" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="2580">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4468#4476#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -640,7 +728,10 @@
     <entry file="file://$PROJECT_DIR$/src/edu/drexel/Examiner/dataaccess/Couchbase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="0" selection-start="916" selection-end="916" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="2580">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4468#4476#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -675,7 +766,10 @@
     <entry file="file://$PROJECT_DIR$/src/edu/drexel/Examiner/dataaccess/Couchbase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="77" column="20" selection-start="2346" selection-end="2346" vertical-scroll-proportion="0.0" vertical-offset="1155" max-vertical-offset="2820">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4468#4476#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -724,7 +818,10 @@
     <entry file="file://$PROJECT_DIR$/src/edu/drexel/Examiner/dataaccess/Couchbase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="131" column="0" selection-start="4397" selection-end="4397" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4468#4476#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -786,8 +883,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/drexel/Examiner/dataaccess/Couchbase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="0" selection-start="3114" selection-end="3114" vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="2865">
-          <folding />
+        <state line="100" column="0" selection-start="3114" selection-end="3114" vertical-scroll-proportion="-0.29925188" vertical-offset="1500" max-vertical-offset="2865">
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4468#4476#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -814,14 +914,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CBViews/get_thread_vm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="1" selection-start="116" selection-end="116" vertical-scroll-proportion="0.07481297" vertical-offset="0" max-vertical-offset="802">
+        <state line="4" column="1" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/drexel/Examiner/math/LinearRegression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="40" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+        <state line="21" column="0" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
